@@ -26,7 +26,7 @@ joblib==1.1.0
 kiwisolver==1.3.1
 matplotlib==3.3.4
 multidict==6.0.4
-nltk==3.6.5
+nltk==3.8.1
 numpy==1.19.5
 openai==0.27.0
 outcome==1.2.0
